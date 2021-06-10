@@ -22,7 +22,8 @@
       
     * 스마트폰 내부의 음성인식 API로 일정관리 기능을 호출 가능하지만 전체 어플에 대응하기 때문에 조작 불편
       - 일정관리만을 위한 음성인식을 적용해 간단한 과정으로 편리하게 일정 관리 가능
-      
+ <br>
+<img width="840" alt="스크린샷 2021-06-10 오전 4 36 53" src="https://user-images.githubusercontent.com/59560592/121418042-81d5ee80-c9a5-11eb-8cc1-6da38c74fc2d.png">     
 <br>
     
 #### 프로젝트 개요
@@ -31,9 +32,9 @@
     * 음성합성 API로 결과를 출력하여 사용자에게 편리한 일정관리 서비스를 제공
     
     * Todo-List 형식의 일별 일정 관리 기능, 월별 주요 일정 관리 기능, 목표 달성률 관리 기능 제공
-
+    
 <br>
-<img width="840" alt="스크린샷 2021-06-10 오전 4 36 53" src="https://user-images.githubusercontent.com/59560592/121418042-81d5ee80-c9a5-11eb-8cc1-6da38c74fc2d.png">
+<img width="966" alt="스크린샷 2021-06-10 오전 4 36 42" src="https://user-images.githubusercontent.com/59560592/121418202-af229c80-c9a5-11eb-929d-c02d78df3273.png">
 <br><br>
 
 #### 1. Todo-List 형식으로 일별 일정 관리
@@ -42,15 +43,32 @@
     - 음성합성을 통한 일정 읽어주기 기능
  
 <br>
-<img width="966" alt="스크린샷 2021-06-10 오전 4 36 42" src="https://user-images.githubusercontent.com/59560592/121418202-af229c80-c9a5-11eb-929d-c02d78df3273.png">
-<br>
-    
-#### 2. 월별 주요 일정 관리
-  * 별 주요 일정 관리 기능에서는 월별 일별 일정 확인, 해당 날짜의 일정으로 이동, 음성인식을 통한 일정 검색 서비스를 제공한다.
+<p>
+<img width="300" src="https://user-images.githubusercontent.com/59560592/121467207-ac4e9880-c9f3-11eb-8472-90e9b3e41704.gif">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://user-images.githubusercontent.com/59560592/121467228-b40e3d00-c9f3-11eb-96ab-eb63818a095b.gif">
+</p>
+<br><br>
 
+#### 2. 월별 주요 일정 관리
+    - 월별 일별 일정 확인, 해당 날짜의 일정으로 이동, 음성인식을 통한 일정 검색 기능
+
+<br>
+<img width="300" src="https://user-images.githubusercontent.com/59560592/121468033-1fa4da00-c9f5-11eb-9266-c61eab583162.gif">
+<br><br>
  
 #### 3. 목표 달성률 관리
-  * 목표 달성률 관리 기능에서는 목표 지정 후 달성 기록 체크, 달성 기록에 따른 수행률 표시, 목표 달성 시 축하메시지 음성 출력, 음성인식 기능을 사용해서 달성 기록 체크 서비스를 제공한다.
-<br><br><br>
+    - 목표 지정 후 달성 기록 체크 기능!
+
+<br>
+<img width="300" src="https://user-images.githubusercontent.com/59560592/121468194-5d096780-c9f5-11eb-9475-7184b8da67a1.gif">
+<br><br>
+
+#### 4. 반응형 웹 적용
+    - Media Query와 Ant-Design 활용하여 화면 크기에 맞는 UI 제공
+<br>
+<img width="600" src="https://user-images.githubusercontent.com/59560592/121468430-bd000e00-c9f5-11eb-85b8-e498a303439d.gif">
+
+
+<br><br><br><br><br>
 
 
