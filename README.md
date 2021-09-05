@@ -4,14 +4,14 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-  * **Front End**   
-    * React.js   
+**_Front End_**   
+  * React.js   
 
-  * **Back End**   
-    * Node.js   
+**_Back End_**   
+  * Node.js   
 
-  * **Database**   
-    * MySQL
+**_Database_**   
+  * MySQL
 <br><br><br>
 
 ## 💡 &nbsp;프로젝트 소개
@@ -23,7 +23,7 @@
     * 스마트폰 내부의 음성인식 API로 일정관리 기능을 호출 가능하지만 전체 어플에 대응하기 때문에 조작 불편
       - 일정관리만을 위한 음성인식을 적용해 간단한 과정으로 편리하게 일정 관리 가능
  <br>
-<img width="840" alt="스크린샷 2021-06-10 오전 4 36 53" src="https://user-images.githubusercontent.com/59560592/121418042-81d5ee80-c9a5-11eb-8cc1-6da38c74fc2d.png">     
+<img width="840" alt="스크린샷 2021-06-10 오전 4 36 53" src="https://user-images.githubusercontent.com/59560592/121418042-81d5ee80-c9a5-11eb-8cc1-6da38c74fc2d.png">     
 <br>
     
 #### 프로젝트 개요
@@ -34,7 +34,7 @@
     * Todo-List 형식의 일별 일정 관리 기능, 월별 주요 일정 관리 기능, 목표 달성률 관리 기능 제공
     
 <br>
-<img width="900" alt="스크린샷 2021-06-10 오후 2 18 46" src="https://user-images.githubusercontent.com/59560592/121469076-d2296c80-c9f6-11eb-9660-51a8dfb5190c.png">
+<img width="900" alt="스크린샷 2021-06-10 오후 2 18 46" src="https://user-images.githubusercontent.com/59560592/121469076-d2296c80-c9f6-11eb-9660-51a8dfb5190c.png">
 
 
 <br><br>
